@@ -1,6 +1,6 @@
 ## Loan Default Prediction Project
 
-### The Problem Are
+### The Problem Area
 The focus of this project is analyzing loan default status, aiming to understand the factors that contribute to loan defaults and predict the likelihood of a borrower defaulting on a loan. This is crucial because when loans aren't paid back, it causes financial losses for banks and lending companies, impacting their stability and ability to help others.
 
 ### The User
